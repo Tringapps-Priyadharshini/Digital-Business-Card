@@ -1,0 +1,48 @@
+.businesscard{
+    border: 1px solid black;
+    padding:40px;
+    width:300px;
+    margin-left: 600px;
+}
+.card{
+    text-align: center;
+    display:flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.email,.linkedin{
+    background-color: white;
+    border-radius: 5px;
+    border: 1px solid white;
+    margin-right: 10px;
+    margin-left: 10px;
+}
+
+.persondetails h3{
+    color:white;
+}
+
+.persondetails h4{
+    color:brown;
+    text-align: center;
+}
+
+.persondetails h5{
+    color:white;
+}
+
+h4,p{
+    color:white;
+    text-align: left;
+    margin-left: 10px;
+}
+
+.footerImage{
+    padding:10px;
+}
+
+tfoot{
+    background-color: rgba(128, 128, 128, 0.308);
+}
+
