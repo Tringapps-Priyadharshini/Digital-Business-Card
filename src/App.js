@@ -1,5 +1,5 @@
 import './App.css';
-// import BusinessCard from './components/BusinessCard'
+{/*import BusinessCard from './components/BusinessCard' */}
 import BusinessCardMUI from './components/BusinessCardMUI';
 function App() {
   return (
